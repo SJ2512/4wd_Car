@@ -1,1 +1,1 @@
-
+in this version i used very basic components and made an obstacle avoidance car which automatically detects a wall or any type of obstacle and automatically chooses the right path which is free of obstacles and moves on 
