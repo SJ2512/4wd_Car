@@ -42,14 +42,7 @@ Initial prototype built using Arduino Uno.
 * Differential drive chassis
 
 ### Hardware
-
-* Arduino Uno
-* L298N motor drivers
-* BO motors
-* Ultrasonic sensor
-* Servo for scanning
-* 3S Li-ion battery
-* Buck converters
+check v1/readme.md
 
 ### Key Outcome
 
