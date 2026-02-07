@@ -42,7 +42,7 @@ Initial prototype built using Arduino Uno.
 * Differential drive chassis
 
 ### Hardware
-check v1/readme.md
+check V1/Readme.md
 
 ### Key Outcome
 
