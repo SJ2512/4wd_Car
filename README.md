@@ -42,7 +42,7 @@ Initial prototype built using Arduino Uno.
 * Differential drive chassis
 
 ### Hardware
-**[Check](V1/README.md)**
+**[Check](V1/Readme.md)**
 
 ### Key Outcome
 
@@ -66,7 +66,7 @@ Second iteration introduced remote control and communication capability.
 * ESP32 integration (replacing external Bluetooth module)
 * Web-based control interface
 * Data logging via ESP32 web server
-
+**[Check](V2/Readme.md)**
 ### Learning Focus
 
 * Wireless control systems
@@ -84,21 +84,7 @@ Final and most advanced iteration.
 
 ### Major Upgrades
 
-* Master–slave architecture
-
-  * ESP32 (master)
-  * Arduino Mega (slave control)
-* Dual operation modes:
-
-  * Manual control
-  * Autonomous navigation
-* ToF sensor replacing ultrasonic for improved accuracy
-* MPU6050 for orientation and yaw tracking
-* BTS7960 high-current motor drivers
-* Upgraded 12V motors
-* Logic level converters
-* 4S Li-ion battery system
-* Dedicated buck converters for stable rails
+**[Check](V3/Readme.md)**
 
 ### Result
 
